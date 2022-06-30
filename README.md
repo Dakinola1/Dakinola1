@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Dakinola1
-- 👀 I’m interested in Cyber Security, Could Computing and Coding.
+- 👀 I’m interested in Cyber Security, Cloud Computing and Coding.
 - 🌱 I’m currently learning Python.
